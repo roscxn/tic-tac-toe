@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+
+table, th, td {
+    margin:auto;
+    border: 2px solid black;
+    width: 400px;
+    height: 100px;
+    cursor: pointer;
+    box-shadow: 0 0 0 2px;
+    font-size: 40px;
+}
+
